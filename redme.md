@@ -8,7 +8,7 @@ Mozemy skorzystać z opcji dodawania zdjęć.
 Lub listy wykonanych zadań:
 
 - [x] Główny plik HTML
-- [ ] Plik licenci
+- [X] Plik licenci
 - [x] kod css
 - [ ] edycja wyświetlania znaczników
 - [ ] dodać drugą podstrone html
