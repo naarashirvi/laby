@@ -1,8 +1,10 @@
+@font-face {font-family: elegant; src: url("../data/font/elegant.woff") format("woff");}
 body,
 html {
   image-rendering: pixelated;
   margin: 0px;
   padding: 0px;
+  font-family: elegant, monospace;
 }
 
 .driver {
