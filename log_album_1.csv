@@ -1,0 +1,44 @@
+* 4d90e25 2025-11-20 mroweczki| 
+|  data/ants.gif      | Bin 0 -> 335 bytes
+|  src/.style.css.swp | Bin 12288 -> 0 bytes
+|  src/style.css      |   2 +-
+|  3 files changed, 1 insertion(+), 1 deletion(-)
+
+* 3e1b998 2025-11-20 FONTSSSSSgit add .l;sl;ssudo apt install vim!| 
+|  data/font/elegant.woff | Bin 0 -> 68340 bytes
+|  src/.style.css.swp     | Bin 12288 -> 12288 bytes
+|  src/main.html          |   7 +++++--
+|  src/style.css          |   2 ++
+|  4 files changed, 7 insertions(+), 2 deletions(-)
+
+* a8f0efc 2025-11-20 yyyy website yes| 
+|  src/.style.css.swp | Bin 0 -> 12288 bytes
+|  src/index.html     |   2 +-
+|  src/main.html      |  16 ++++++++++++++++
+|  src/style.css      |  26 --------------------------
+|  4 files changed, 17 insertions(+), 27 deletions(-)
+
+* 12b5bac 2025-11-20 Reapply "yadayada"| 
+|  redme.md       |   2 +-
+|  src/index.html |  25 ++++++++
+|  src/style.css  | 170 +++++++++++++++++++++++++++++++++++++++++++++++++++----
+|  3 files changed, 184 insertions(+), 13 deletions(-)
+
+* dbff538 2025-11-20 Revert "yadayada"| 
+|  redme.md       |   2 +-
+|  src/index.html |  25 --------
+|  src/style.css  | 170 ++++---------------------------------------------------
+|  3 files changed, 13 insertions(+), 184 deletions(-)
+
+* 783179f 2025-11-20 yadayada| 
+|  redme.md       |   2 +-
+|  src/index.html |  25 ++++++++
+|  src/style.css  | 170 +++++++++++++++++++++++++++++++++++++++++++++++++++----
+|  3 files changed, 184 insertions(+), 13 deletions(-)
+
+* f903a7e 2025-11-20 init  
+   LICENCE.md      |  21 +++++++++++++++++++++
+   redme.md        |  19 +++++++++++++++++++
+   src/nasa_01.png | Bin 0 -> 47867877 bytes
+   src/style.css   |  19 +++++++++++++++++++
+   4 files changed, 59 insertions(+)
